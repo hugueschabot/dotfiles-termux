@@ -8,6 +8,6 @@ Install the [Main castle](https://github.com/hugueschabot/dotfiles).
 
 Install the following packages.
 
-Link the castle.
+Clone this repository.
 
     homeshick clone hugueschabot/dotfiles-termux
